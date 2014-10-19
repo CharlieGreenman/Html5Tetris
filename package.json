@@ -1,0 +1,19 @@
+{
+  "name": "Skeleton",
+  "version": "0.1.0",
+  "author": "Charlie Greenman",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-htmlhint": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-jade": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-open": "~0.2.1",
+    "matchdep": "*",
+    "connect-livereload": "~0.4.0"
+  }
+}
